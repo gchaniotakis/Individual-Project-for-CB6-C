@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project_Application
 {
-    class Program
+    class File_Access
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
