@@ -1,13 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Dapper;
-using System.Data.SqlClient;
-using static Project_Application.Login_Screen;
+﻿using static Project_Application.Login_Screen;
 using static Project_Application.Users;
-using static Project_Application.Menus;
 namespace Project_Application
 {
     class Main_Application
